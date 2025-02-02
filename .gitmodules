@@ -1,0 +1,6 @@
+[submodule "hyprrust"]
+	path = hyprrust
+	url = ./hyprrust
+[submodule "hyprrust_macros"]
+	path = hyprrust_macros
+	url = ./hyprrust_macros

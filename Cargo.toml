@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+	"hyprrust",
+	"hyprrust_macros"
+]
+
+resolver = "2"
