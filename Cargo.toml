@@ -2,7 +2,6 @@
 
 members = [
 	"hyprrust",
-	"hyprrust_macros"
-]
+	"hyprrust_macros"]
 
 resolver = "2"
