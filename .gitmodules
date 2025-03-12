@@ -1,6 +1,6 @@
 [submodule "hyprrust"]
 	path = hyprrust
-	url = ./hyprrust
+	url = https://github.com/andrewandreii/hyprrust.git
 [submodule "hyprrust_macros"]
 	path = hyprrust_macros
-	url = ./hyprrust_macros
+	url = https://github.com/andrewandreii/hyprrust_macros.git
